@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/posts/posts",
+    "pages/posts/post-detail/post-detail",
+    "pages/movie/movie",
+    "pages/tet"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#98dbe7"
+  },
+  "tabBar": {
+    "borderStyle": "white",
+    "backgroundColor": "#efe",
+    "list": [
+      {
+        "pagePath": "pages/posts/posts",
+        "text": "读书",
+        "iconPath": "images/tab/yuedu.png",
+        "selectedIconPath": "images/tab/yuedu_hl.png"
+      },
+      {
+        "pagePath": "pages/movie/movie",
+        "text": "影音",
+        "iconPath": "images/tab/dianying.png",
+        "selectedIconPath": "images/tab/dianying_hl.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap23.json"
+}
