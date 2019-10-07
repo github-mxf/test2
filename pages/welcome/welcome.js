@@ -1,11 +1,11 @@
 Page({
   onTap: function(){
-    // wx.navigateTo({
-    //   url: '/pages/posts/posts',
-    // })
-    // wx.redirectTo({
-    //   url: '/pages/posts/posts',
-    // })
+    wx.navigateTo({
+      url: '/pages/posts/posts',
+    })
+    wx.redirectTo({
+      url: '/pages/posts/posts',
+    })
     wx.switchTab({
       url: '/pages/posts/posts',
     })
