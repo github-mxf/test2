@@ -6,9 +6,9 @@ Page({
     wx.redirectTo({
       url: '/pages/posts/posts',
     })
-//     wx.switchTab({
-//       url: '/pages/posts/posts',
-//     })
+    wx.switchTab({
+      url: '/pages/posts/posts',
+    })
   },
 
   onHide: function(){
