@@ -4,7 +4,11 @@ var local_database = [
     title: "正是虾肥蟹壮时111",
     imgSrc: "/images/post/crab.png",
     avatar: "/images/avatar/1.png",
+<<<<<<< Updated upstream
     content: "222菊黄蟹正肥，品尝秋之味。徐志摩把,“看初花的荻芦”和“到楼外楼吃蟹”,并列为秋天来杭州不能错过的风雅之事；用林妹妹的话讲是“螯封嫩玉双双满,xxxbbb",
+=======
+    content: "菊黄蟹正肥，品尝秋之味。徐志摩把,“看初花的荻芦”和“到楼外楼吃蟹”,并列为秋天来杭州不能错过的风雅之事；用林妹妹的话讲是“螯封嫩玉双双满,xxxbbbccc",
+>>>>>>> Stashed changes
     reading: "112",
     collection: "96",
     headImgSrc: "/images/post/crab.png",
